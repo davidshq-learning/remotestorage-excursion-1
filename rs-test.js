@@ -15,7 +15,7 @@ const rsw = new Widget(remoteStorage);
 
 // Register Google Drive as Storage Option
 rs.setApiKeys({
-    googledrive: 'key-goes-here';
+    googledrive: 'key-goes-here'
 })
 
 // Attach to DOM
